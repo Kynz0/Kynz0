@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft moding (fabric) and datapacks
 - 🌱 I’m currently learning making fabric mods
 - 📫 How to reach me Kynzo#6666 on discord
-- 🇨🇿 I’m from czech republic
+- 🇨🇿  I’m from czech republic
 
 <!---
 Kynz0/Kynz0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
