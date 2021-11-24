@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kynz0
 - 👀 I’m interested in Minecraft moding (fabric) and datapacks
 - 🌱 I’m currently learning making fabric mods
-- 📫 How to reach me dsicord.link/kynzo
+- 📫 How to reach me discord.link/kynzo
 - 🇨🇿  I’m from czech republic
 
 <!---
